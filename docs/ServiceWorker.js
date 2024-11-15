@@ -1,9 +1,9 @@
-const cacheName = "Milizzo-Editor Game-v0.0, build 3";
+const cacheName = "Milizzo-Editor Game-v0.0, build 4";
 const contentToCache = [
-    "Build/Build 3.loader.js",
-    "Build/Build 3.framework.js",
-    "Build/Build 3.data",
-    "Build/Build 3.wasm",
+    "Build/Build 4.loader.js",
+    "Build/Build 4.framework.js",
+    "Build/Build 4.data",
+    "Build/Build 4.wasm",
     "TemplateData/style.css"
 
 ];
